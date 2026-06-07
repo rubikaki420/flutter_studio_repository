@@ -16,11 +16,11 @@ Description: Android SDK built using musl libc, supporting multiple architecture
   - Build tools
   - System images
 Filename: dists/fide/main/binary-aarch64/android-sdk.deb
-Size: 1484
-MD5Sum: 4d97ab2fba80de866032885826123379
-SHA1: 07e04b5a8f95fd452ed46922fafb1d099d3eb439
-SHA256: 07baba78a4f94621072a9a95b9cd98749fb86f3b91c94fe812466fd5984cbdf0
-SHA512: 4773e0a1248561c32e2b8505bb8dafb925537364db352d4882749ca5d2c0b6537e0fc50657904e45f8f8771d074e99a5cc5729ef9f1272ca15cb1da0021768db
+Size: 1436
+MD5Sum: 295392ddd59774e3676ea8e28c8dbf6a
+SHA1: 9b42f1359cda64ad51a9a8938942e5e35f3903fa
+SHA256: a35c584701b8884e2ff4d9f6c19a42fc3933a33d5ce8070a6e2a5c13ad7eaf1d
+SHA512: e4e95bc51199632dd21780ae06e0bdfcee07140c89ad50f3fd2f3999caa6c7f79cf0079ca0d53695505a399795171010d119f4802374568b3bb424bd12f42396
 
 Package: flutter
 Version: 3.41.9
@@ -37,11 +37,11 @@ Description: Google's UI toolkit for building native apps
  - Material/Cupertino widgets
  - Android/iOS/Linux support
 Filename: dists/fide/main/binary-aarch64/flutter.deb
-Size: 1576
-MD5Sum: 40716f10daaa287adabbe2ce96e57c09
-SHA1: 8b18ed919559d2ed987e3039e59f0342f379dca3
-SHA256: 195083e935abedf40b826110080360db800d03ac3246b3408cec04a4237bc62d
-SHA512: 346cf65ba3b521e3c03ac0a8a00fbee78d0918b17eab9a942763996b51d15a1e46c3bf7d3506230e55270f19528f7c7c9ed386aa86d48db7adc96272ecd944db
+Size: 1368
+MD5Sum: eecaafc9119e205bfe3a948d22ec3548
+SHA1: 4f4b681b71473c5491dc024a766c124c139c9192
+SHA256: e067330faa0a6f6715495a193a8646ecdfa0892c0a4eb3bacc10cbefbc907c2f
+SHA512: 03121e2daaad8b7d96fe16e94d15964ef96064e753f1c3abd8d1bad31743c5bf776515ad47db8a679b15ad04d46619449701c3f65877289bd63d4d947be47040
 
 Package: openjdk-21
 Architecture: aarch64
