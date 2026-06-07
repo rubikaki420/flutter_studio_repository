@@ -53,9 +53,9 @@ Homepage: https://openjdk.java.net
 Depends: libandroid-shmem, libandroid-spawn, libiconv, zlib, littlecms, p7zip, axel
 Description: Java development kit and runtime for flutter-studio
 Filename: dists/fide/main/binary-aarch64/openjdk-21.deb
-Size: 2536
-MD5Sum: fc22cbfdbac7fbf28d6785dd686c239f
-SHA1: e0915b148c5a1e8a70d13ad886410799004386ba
-SHA256: 9371c8ee488d4da80a3b83e71df8b7279a64c6c92729e79679327fd99d87b13d
-SHA512: 7a66b9e25f833469b03391710de6e8e9eb58a50ed2d90a53aa7a2eccda1eff7d773fd7d913b57cc9906877b2fee18017487ce333b970048f8a1b16cf3ea20021
+Size: 2668
+MD5Sum: 4c946416a5a88a339990d33ccf1f6ea3
+SHA1: 06da481eedfe1ab1bea47a12d24a320aa8f2d4bf
+SHA256: 3654240546a8e1d9785820c9317f8f8530c7859b9a2d540335477edcc3dd2032
+SHA512: 906f2e3bbcd94877321c007f1100ac7d350889141f5bbcf1992a8f7caacf443b426e21ba7cfbb4bc446cb6959a3d81fcff034547e41fb1a8378e3ec8eaeec727
 
