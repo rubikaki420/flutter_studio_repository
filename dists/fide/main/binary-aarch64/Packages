@@ -37,11 +37,11 @@ Description: Google's UI toolkit for building native apps
  - Material/Cupertino widgets
  - Android/iOS/Linux support
 Filename: dists/fide/main/binary-aarch64/flutter.deb
-Size: 1368
-MD5Sum: eecaafc9119e205bfe3a948d22ec3548
-SHA1: 4f4b681b71473c5491dc024a766c124c139c9192
-SHA256: e067330faa0a6f6715495a193a8646ecdfa0892c0a4eb3bacc10cbefbc907c2f
-SHA512: 03121e2daaad8b7d96fe16e94d15964ef96064e753f1c3abd8d1bad31743c5bf776515ad47db8a679b15ad04d46619449701c3f65877289bd63d4d947be47040
+Size: 1312
+MD5Sum: 897929dbf0a4242fd0b96c7a79a45936
+SHA1: c971f6fab2142004a6de5f469a487c5201a61434
+SHA256: 1e36519da95e67cf0e21881e63217070b0eb2d5dd6102177df167df8909e209a
+SHA512: bcec5b1bc90fb6ca1daf351b5179c4227c77e38bad505b66ef6c1ac6830848fb23cfccfe025488cf5d3a5ea92c9b96013741f151b14fb60b3f09f9da305851bc
 
 Package: openjdk-21
 Architecture: aarch64
